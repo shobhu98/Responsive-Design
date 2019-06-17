@@ -29,12 +29,16 @@ body{
         flex-wrap: wrap;
     }
     .box-1{
-        width: 10vh;
+        width: 10%;
         height: 100vh;
-        position: fixed;
+
+    }
+    .sub{
+        /*width: 90vh;*/
+        width: 90%;
+        height: 100vh;
     }
     .box-2,.box-3{
-        /*width: 90vh;*/
         height: 50vh;
     }
 
